@@ -25,8 +25,7 @@ Thankfully, it is easy for us to identify these positive and negative returns ba
 
 ![Formatting_Code](Formatting_Code.PNG)
 ## Summary
-daqo new energy corp - makes silicon wafers for solar panels
-they believe alternative forms of energy will be the way of the future as fossil fuels get used up
-steve is helping his parents analyze their decision to buy into daqo
-steve wants to diversify their funds and analyzes green energy stocks
-
+### Refactoring in General
+It is time consuming to write code from scratch, and it is very helpful to quickly produce a final product when there is already a framework of code to work with. However, a disadvantage of refactoring code is the need to fit each piece of old code with each piece of new code--like a puzzle. Sometimes it's easy to add an output line but other times it is diffiult to align If statements to create the correct loops. 
+### Our Original vs Refactored Script
+The original script provided one large disadvantage--it is specific to this small data set. It worked quickly, but it did not have the power to run through so many tickers as Steve hopes to do in the future. The refactored code gives the ability to run through a larger dataset--albeit, the user will still have to hard code ticker names into the VBA script. This new code has a better capability of looping through a larger sheet with more rows.

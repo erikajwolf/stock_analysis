@@ -10,3 +10,4 @@ daqo new energy corp - makes silicon wafers for solar panels
 they believe alternative forms of energy will be the way of the future as fossil fuels get used up
 steve is helping his parents analyze their decision to buy into daqo
 steve wants to diversify their funds and analyzes green energy stocks
+![Parent_Category_Chart](Parent_Category_Chart.png)

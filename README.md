@@ -20,6 +20,10 @@ Wow! 2017 gave DAQO an almost 200% return--the highest return of all the stocks 
 ![All_Stocks_2018](All_Stocks_2018.PNG)
 
 We could have predicted, based on the 2018 DQ Analysis, that DAQO's return for 2018 would be lower than that of 2017---62.6%. Unfortunately, this is the lowest return of all of Steve's tickers for the year. For Steve's parents to have the best chance at diversifying their investment in green-energy, they could consider also buying stock in ENPH and RUN. These companies both showed postive returns in 2017 and 2018--the only two companies that did so.
+### Our Code
+Thankfully, it is easy for us to identify these positive and negative returns based on our macro's script. Please see below the formatting code we wrote to be able to quickly identify these tickers.
+
+![Formatting_Code](Formatting_Code.PNG)
 ## Summary
 daqo new energy corp - makes silicon wafers for solar panels
 they believe alternative forms of energy will be the way of the future as fossil fuels get used up
